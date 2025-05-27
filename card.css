@@ -1,0 +1,13 @@
+.card
+{
+ border:2px solid black;
+ text-align: center; 
+ height:600px;
+ width:800px;  
+}
+.card:hover
+{
+background-color:orange;
+color:white;
+
+}
